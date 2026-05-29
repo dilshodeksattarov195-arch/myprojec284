@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymenteave",
+        "uuid": 277752,
+        "checksum": "ol2b1q"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
